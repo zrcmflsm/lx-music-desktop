@@ -99,7 +99,7 @@
 
 ### 常见问题
 
-常见问题已移至：<https://lyswhut.github.io/lx-music-doc/desktop/faq>
+音乐无法播放请前往www.sixyin.com/8498.html，下载音源，然后在 设置>基本设置>音乐来源>自定义源管理 里导入刚刚下载的音源并选择即可
 
 ### 贡献代码
 
